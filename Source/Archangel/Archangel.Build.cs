@@ -12,8 +12,7 @@ public class Archangel : ModuleRules
 			"Core", 
 			"CoreUObject", 
 			"Engine", 
-			"InputCore" ,
-			"Plane"
+			"InputCore"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {
